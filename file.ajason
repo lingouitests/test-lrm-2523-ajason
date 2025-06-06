@@ -1,10 +1,13 @@
 {
-"the_cat": "The Cat",
-"dogs": {
-       "pitbull": "A pitbull",
-       "collie": "A collie",
-       "small_dogs": {
-               "poodle": "A teacup poodle"
-       }
-  }
+   "the_cat":"The Cat",
+      "vehicles":[
+      "car",
+      "Auto",
+      "bike",
+      "Bike has changed"
+   ],
+   "colors":{
+      "blue":"Blue",
+      "red":"Red"
+   }
 }
