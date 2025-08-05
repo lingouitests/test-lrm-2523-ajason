@@ -1,0 +1,13 @@
+{
+  "the_cat": "The Cat",
+  "vehicles": [
+    "car&nbsp;![CDATA[<///>]]",
+    "Auto",
+    "bike![CDATA[]]",
+    "Bike &apos;has changed"
+  ],
+  "colors": {
+    "blue": "&reg&lt;Blue",
+    "red": "![CDATA[Red]]"
+  }
+}
